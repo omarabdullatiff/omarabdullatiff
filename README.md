@@ -4,7 +4,7 @@
 - 🔭 I’m currently student at computer science  
   
 
-- 🌱 I’m currently learning BI and Data analytics  
+- 🌱 I’m currently interested to explore Data engineering career 
   
 
 - ❓ Ask me about anything related to data  
