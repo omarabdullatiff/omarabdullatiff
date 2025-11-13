@@ -41,6 +41,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-abdullatif&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-abdullatif&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omarabdullatiff&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarabdullatiff&layout=compact&theme=radical" />
 </div>
