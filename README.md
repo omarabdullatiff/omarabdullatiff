@@ -24,9 +24,9 @@
 
 ## 📚 Currently Reading
 - *The Fundamentals of Data Engineering*  
-  Progress: ▰▰▰▰▰▱▱▱▱▱ 60%
+  Progress: ▰▰▰▰▰▰▱▱▱▱ 60%
 - *The Data Warehouse Toolkit*  
-  Progress: ▰▰▰▰▱▱▱▱▱▱ 45%
+  Progress: ▰▰▱▱▱▱▱▱▱ 30%
 
 ---
 
