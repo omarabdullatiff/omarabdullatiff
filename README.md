@@ -23,10 +23,10 @@
 ---
 
 ## 📚 Currently Reading
-| Book | Progress |
-|------|----------|
-| *The Fundamentals of Data Engineering* | ![60%](https://progress-bar.dev/60) |
-| *The Data Warehouse Toolkit* | ![45%](https://progress-bar.dev/45) |
+- *The Fundamentals of Data Engineering*  
+  Progress: ▰▰▰▰▰▱▱▱▱▱ 60%
+- *The Data Warehouse Toolkit*  
+  Progress: ▰▰▰▰▱▱▱▱▱▱ 45%
 
 ---
 
