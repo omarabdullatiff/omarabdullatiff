@@ -11,6 +11,9 @@
   <a href="mailto:omarabdullatiff000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://691e76f56a5d1800072b01ef--omar-portfolio-data-engineering.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=flat-square&logo=netlify&logoColor=white" />
+  </a>
 </div>
 
 ---
